@@ -40,4 +40,11 @@ Built with Python and packed into a portable `.exe`—no installation required. 
 
 ---
 
+## 👤 Author
+Developed by **Farhan Rahman**  
+GitHub: [farhanr43](https://github.com/farhanr43)
+
+---
+
+### ⭐ If this project helps you, kindly star the repo!
 
