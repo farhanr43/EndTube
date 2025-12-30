@@ -19,7 +19,7 @@ Built with Python and packed into a portable `.exe`—no installation required. 
 
 ## 📥 Download EndTube (.EXE)
 
-**Download:** [Click Here to Download EndTube.exe](https://github.com/farhanr43/EndTube/releases/tag/v1.0.0)
+**Download:** [Click Here to Download EndTube.exe](https://github.com/farhanr43/EndTube/releases/)
 
 ---
 
