@@ -1,5 +1,5 @@
 # 🎬 EndTube  
-### YouTube Video & Audio Downloader (Windows .EXE | Python)
+### YouTube Video & Audio Downloader (Windows)
 
 EndTube is a simple and powerful desktop application that allows users to download YouTube videos and extract high-quality audio easily.  
 Built with Python and packed into a portable `.exe`—no installation required. Just run, paste link & download!
@@ -22,7 +22,7 @@ Built with Python and packed into a portable `.exe`—no installation required. 
 > 🔽 Coming Soon — Will be added after release upload  
 Replace this after you publish:
 
-**Download:** [Click Here to Download EndTube.exe]([YOUR_RELEASE_LINK_HERE](https://github.com/farhanr43/EndTube/releases/tag/v1.0.0))
+**Download:** [Click Here to Download EndTube.exe]([https://github.com/farhanr43/EndTube/releases/tag/v1.0.0])
 
 To upload on GitHub:  
 `GitHub → Releases → Upload your EndTube.exe → Copy link → Replace above`
@@ -35,10 +35,6 @@ To upload on GitHub:
 |--------------|
 | ![EndTube Screenshot](assets/screenshots/endtube_ui.png) |
 
-> Place your image in  
-`assets/screenshots/endtube_ui.png`  
-(or update the path if different)
-
 ---
 
 ## 🚀 How to Use (Simple Steps)
@@ -49,7 +45,5 @@ To upload on GitHub:
 4. File will be saved to your PC automatically
 
 ---
-
-## 📂 Folder Structure Example
 
 
