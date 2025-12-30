@@ -22,7 +22,7 @@ Built with Python and packed into a portable `.exe`—no installation required. 
 > 🔽 Coming Soon — Will be added after release upload  
 Replace this after you publish:
 
-**Download:** [Click Here to Download EndTube.exe](YOUR_RELEASE_LINK_HERE)
+**Download:** [Click Here to Download EndTube.exe]([YOUR_RELEASE_LINK_HERE](https://github.com/farhanr43/EndTube/releases/tag/v1.0.0))
 
 To upload on GitHub:  
 `GitHub → Releases → Upload your EndTube.exe → Copy link → Replace above`
