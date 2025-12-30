@@ -41,8 +41,9 @@ Built with Python and packed into a portable `.exe`—no installation required. 
 ---
 
 ## 👤 Author
-Developed by **Farhan Rahman**  
-GitHub: [farhanr43](https://github.com/farhanr43)
+📌 Developer: **Farhan Rahman**  
+🌐 GitHub: [farhanr43](https://github.com/farhanr43)  
+📘 Facebook: [Farhan](https://www.facebook.com/farhan0043)  
 
 ---
 
