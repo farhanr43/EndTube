@@ -1,14 +1,14 @@
 # 🎬 EndTube  
-### YouTube Video & Audio Downloader (Windows)
+### Social Media Video & Audio Downloader (Windows)
 
-EndTube is a simple and powerful desktop application that allows users to download YouTube videos and extract high-quality audio easily.  
+EndTube is a simple and powerful desktop application that allows users to download Social Media videos and extract high-quality audio easily.  
 Built with Python and packed into a portable `.exe`—no installation required. Just run, paste link & download!
 
 ---
 
 ## ✨ Features
 
-- 📥 Download YouTube videos instantly
+- 📥 Download Social Media videos instantly
 - 🎧 Convert videos to MP3 audio
 - 🖥 Clean & minimal UI
 - ⚡ Fast processing
@@ -34,7 +34,7 @@ Built with Python and packed into a portable `.exe`—no installation required. 
 ## 🚀 How to Use (Simple Steps)
 
 1. Open **EndTube.exe**
-2. Paste YouTube link in the input box
+2. Paste Video link in the input box
 3. Click **Download Video** or **Download Audio**
 4. File will be saved to your PC automatically
 
